@@ -5,15 +5,15 @@ This repository contains schematics, a 3D model and code for a Teensy LC to conn
 ## Pictures
 Assembled and in action:
 
-![Action]()
+![Action](https://raw.githubusercontent.com/reini1305/remarkable_footpedal/main/action.jpg)
 
 Pogo pin converter:
 
-![Pogo]()
+![Pogo](https://raw.githubusercontent.com/reini1305/remarkable_footpedal/main/converter.jpg)
 
 Foot pedal:
 
-![Foot pedal]()
+![Foot pedal](https://raw.githubusercontent.com/reini1305/remarkable_footpedal/main/switch.jpg)
 
 ## Necessary Hardware
 - Teensy LC (or better) [here](https://www.pjrc.com/teensy/teensyLC.html)
