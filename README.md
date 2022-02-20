@@ -6,6 +6,8 @@ This repository contains schematics, a 3D model and code for a Teensy LC to conn
 Assembled and in action:
 
 ![Action](https://raw.githubusercontent.com/reini1305/remarkable_footpedal/main/action.jpg)
+![Action](https://raw.githubusercontent.com/reini1305/remarkable_footpedal/main/IMG_20220220_095805__01.jpg)
+![Action](https://raw.githubusercontent.com/reini1305/remarkable_footpedal/main/IMG_20220220_095751__01.jpg)
 
 Pogo pin converter:
 
